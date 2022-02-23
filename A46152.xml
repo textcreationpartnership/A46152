@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whereas in the tenth year of the reign of His Majesties royal father King Charles the First of ever blessed memory, there was an act of Parliament made and passed in this kingdom of Ireland ... by the Lord Lieutenant and Council, Ormonde.</title>
+            <author>Ireland. Lord Lieutenant (1661-1669 : Ormonde)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46152</idno>
+            <idno type="STC">Wing I830</idno>
+            <idno type="STC">ESTC R36894</idno>
+            <idno type="EEBO-CITATION">16149963</idno>
+            <idno type="OCLC">ocm 16149963</idno>
+            <idno type="VID">104879</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46152)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104879)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1595:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whereas in the tenth year of the reign of His Majesties royal father King Charles the First of ever blessed memory, there was an act of Parliament made and passed in this kingdom of Ireland ... by the Lord Lieutenant and Council, Ormonde.</title>
+                  <author>Ireland. Lord Lieutenant (1661-1669 : Ormonde)</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+               </titleStmt>
+               <extent>[2] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Crook ... and are to be sold by Samuel Dancer ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first 4 lines of text.</note>
+                  <note>Statement of responsibility transposed from head of title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Given at the Council chamber in Dublin, the 15th day of August, 1666"--leaf [2]</note>
+                  <note>Broadside in [2] leaves.</note>
+                  <note>Reproduction of original in the Society of Antiquaries Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fish trade --  Law and legislation --  Ireland.</term>
+               <term>Ireland --  History --  1649-1775.</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104879:1"/>
+            <!-- PDF PAGE 47 -->
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>BY THE LORD LIEUTENANT AND COUNCIL:</head>
+            <opener>
+               <signed>ORMONDE,</signed>
+            </opener>
+            <p>
+               <hi>WHEREAS in the Tenth year of the Reign of his Ma<g ref="char:EOLhyphen"/>jeſties Royal Father King</hi> Charles <hi>the firſt of ever bleſſed Memory, there was an Act of Parliament made and paſſed in this Kingdom of</hi> Ireland; <hi>which Act followeth in theſe words:</hi>
+            </p>
+            <p>
+               <q>An Act for the better preſervation of fiſhing in the Counties of <hi>Dublin, Wicklow, Wexford, Water<g ref="char:EOLhyphen"/>ford, Cork, Kerry, Clare, Galway, Mayo, Sligo,</hi> and all other Counties and places within the Realm of <hi>Ireland,</hi> and the Dominions thereof adjoyning to the Sea-coaſt, and for the relief of <hi>Balkors, Condors,</hi> and fiſhermen againſt malicious ſuits.</q>
+            </p>
+            <p>WHEREAS the Trade of fiſhing for Herrings, Pilchards and Sean-fiſh within the counties of <hi>Dublin, Wicklow, Wexford, Waterford, Cork, Kerry, Clare, Galway, Mayo, Sligo,</hi> and of o<g ref="char:EOLhyphen"/>ther counties and places within the ſaid Realm of <hi>Ireland</hi> and the Dominions thereof, adjoyning to the Sea-coaſt, is and of late time hath been very great and profitable, as well to divers of the fiſher<g ref="char:EOLhyphen"/>men as other his Majeſties Subjects within this Realm of <hi>Ireland,</hi> and the Dominions thereof. And whereas alſo for the neceſſary uſe of the takeing of the ſaid Herrings, Pilchards, and other Sean-fiſh, divers perſons within the ſaid Counties called <hi>Balkors, Huors, Condors,</hi> directors or Guidors at the fiſhing time, for the ſaid Herrings, Pilchards, and other Sean-fiſh within the Counties and pla<g ref="char:EOLhyphen"/>ces, time out of mind have uſed to watch, and attend upon the High Hills, and grounds near ad<g ref="char:EOLhyphen"/>joyning to the Sea-coaſts, within the ſaid counties and places, for the diſcovery, and giving notice to the fiſhermen, and inhabitants near adjoyning, when the ſaid Herrings, Pilchards, or ſean-fiſh come towards or near the ſea-coaſts there; and for the guiding and directing of the Fiſhermen in their boats upon the ſea-coaſts for the takeing of the ſaid Herrings, Pilchards and other ſean-fiſh. And whereas alſo now of late divers perſons having Lands, Tenements and Hereditaments near adjoy<g ref="char:EOLhyphen"/>ning to the ſea-coaſts within the ſaid counties, or other places where the ſaid fiſhing places for the takeing of the ſaid Herrings, Pilchards and other ſean-fiſh are, have threatned to bring their Actions of Treſpaſs at the Common Law, or other ſuits as well in the high Courts of Record at <hi>Dublin,</hi> as in inferior Courts within the ſaid Counties, not onely againſt ſuch <hi>Balkors, Huors, Condors,</hi> directors and guidors, but alſo againſt ſuch fiſhermen and other perſons, for breakeing of their cloſe as have
+<pb facs="tcp:104879:2"/>
+               <!-- PDF PAGE 48 -->
+attended their ſeans, or Netts for the drawing, and carrying of the ſaid fiſh on Land or ſhoare, by reaſon whereof ſuch watchmen, <hi>Balkors, Huors, Condors,</hi> directors and guidors, and ſuch other per<g ref="char:EOLhyphen"/>ſons as heretofore have attended the ſaid ſeans and fiſhings, have forborn to enter into, or goe upon the Lands, Tenements and Hereditaments, near adjoyning to ſuch fiſhing places within the ſaid coun<g ref="char:EOLhyphen"/>ties, and places for the watching or diſcovery of the ſaid Herrings, Pilchards, and other ſean-fiſh, or to <hi>Balke, Hue, Cond,</hi> or <hi>direct,</hi> or to attend the ſeans or Netts, as heretofore they have done, and will likewiſe forbear the ſame hereafter, if proviſion be not had and made, that they may lawfully enter into and upon ſuch Lands, Tenements and Hereditaments as do lye near or adjoy<g ref="char:EOLhyphen"/>ning to the ſaid ſea-coaſts and places of fiſhing as aforeſaid, for their watching, balkeing, directing and attending of the ſeans as is aforeſaid.</p>
+            <p>For Remedy whereof, and for the maintenance of the ſaid Trade of fiſhing, which doth ſo greatly tend to the profit of many of the Inhabitants within the ſaid counties and others: Be it therefore Enacted and declared by our Sovereign Lord the King, the Lords Spiritual and Tempo<g ref="char:EOLhyphen"/>ral, and the Commons in this preſent Parliament aſſembled, That it is, ſhall, and may be lawful at all times hereafter to and for every ſuch Watchmen, <hi>Balkors, Huors, Condors,</hi> directors and guidors, and all ſuch fiſhermen and other perſons, as ſhall neceſſarily attend the ſaid ſeanes or netts as afore<g ref="char:EOLhyphen"/>ſaid, at the time of fiſhing for Herrings, Pilchards and other ſeane-fiſh within the ſaid Counties and places, where ſuch fiſh ſhall be heareafter taken, to enter and go into, and upon any Lands, Tenements and Hereditaments, which do lye or adjoyn near unto any ſuch fiſhing places, fit, con<g ref="char:EOLhyphen"/>venient and neceſſary to watch and balke in, or to draw or carry the ſaid fiſh on ſhoare, and there to watch for the ſaid fiſh, and to <hi>balke, Hue, Conde,</hi> direct and guide the ſaid fiſhermen, which ſhall be upon the ſaid Sea and Sea-coaſts, for the takeing of the ſaid fiſh, and to draw and ca<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry the ſaid fiſh on Land or ſhoare, any law, uſage, or Cuſtome to the contrary in any wiſe notwith<g ref="char:EOLhyphen"/>ſtanding.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That if any Action of Treſpaſs, or o<g ref="char:EOLhyphen"/>ther ſuit ſhall at any time hereafter happen to be attempted and brought againſt any perſon or per<g ref="char:EOLhyphen"/>ſons for entring or going on the Lands, for watching of the ſaid fiſh, or for <hi>Balking, Hueing, Cond<g ref="char:EOLhyphen"/>ing,</hi> directing or guiding of the ſaid fiſhermen in their Boats upon Sea or Sea-coaſt, for takeing of the ſaid fiſh, or for landing of the ſaid fiſh as aforeſaid, by authority of this preſent Act, the De<g ref="char:EOLhyphen"/>fendant, and Defendants in any ſuch Action or ſuit ſhall and may plead not guilty for any thing doing, by virtue of this Act, and upon the Tryal of that Iſſue, the whole matter to be given on both parties in evidence, according to the very truth of the ſame; And after ſuch Iſſue Tryed for the Defendant or Defendants, or Non ſuit of the Plaintiff or Plaintiffs after appearance, the ſame De<g ref="char:EOLhyphen"/>fendant or Defendants to recover his or their Damages, by reaſon of his or their wrongful vexation in that behalf, with Coſts alſo in that behalf ſuſtained, and that to be aſſeſſed by the ſame Jury that ſhall Try the ſaid Iſſue, or elſe by writt to enquire of Damages as the Caſe ſhall require, for which Coſts and Damages ſuch Defendant ſhall and may by virtue of this Act take and ſue forth ſuch Execution as the Defendant in a Replevin may do.</p>
+            <p>
+               <hi>AND Whereas by the deſolations and confuſions wrought in the times of the late Re<g ref="char:EOLhyphen"/>bellions in this Kingdom, the fiſhing in this Kingdom intended by the ſaid Act to be pre<g ref="char:EOLhyphen"/>ſerved, are much decayed to the great prejudice of his Maieſtie and his good Subiects: And whereas</hi> Thomas Walker <hi>and Company by their humble Petition Exhibited at this board have declared that for the advancement of Trade and p<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſervation of fiſhing and ſupply of the City of</hi> Dublin, <hi>and other places in this Kingdom with fiſh at reaſonable Rates, and for Traffique beyond the Seas, they are ready with their fiſhermen, Boats and nets, and other neceſſaries to carry on the ſaid work effectually without hindring any other perſon or perſons Licenſed to fiſh the accuſtomed way if they pleaſe, whereby his Majeſties Revenues in his Cuſtoms and Trade will be conſiderably increaſed, the Countrey and Cities ſupplyed with fiſh, and a conſiderable ſum of money kept in the Kingdom, which otherwiſe will be yearly carried out of the King<g ref="char:EOLhyphen"/>dom; And that notwithſtanding the ſaid Act ſo paſſed leaſt ſome perſons, either out of ignorance or wilfulneſs ſhould obſtruct them in the ſaid fiſhing, they therefore by their ſaid Petition humb<g ref="char:EOLhyphen"/>ly beſought us to encourage them to proſecute the ſaid fiſhing without interruption or diſtur<g ref="char:EOLhyphen"/>bance; Vpon conſideration whereof We think ſit by this Proclamation to declare and publiſh, that the ſaid</hi> Thomas Walker <hi>and his Company or Partners, and all other fiſhermen may fiſh according to the ſaid Act of Parliament without interruption or diſturbance; whereof the Iudge or Iudges of the Admiralty, and all other his Majeſties Officers, and Miniſters, and all others whom it may concern are to take notice. And We require the Sheriffs of the ſeve<g ref="char:EOLhyphen"/>ral Counties within this Kingdom to cauſe this Proclamation to be publiſhed and Proclaimed in, and throughout all the ſaid Counties, to the end that all perſons concerned may take notice thereof, and render obedience thereunto accordingly.</hi>
+            </p>
+            <closer>
+               <dateline>Given at the Council Chamber in <hi>Dublin,</hi> 
+                  <date>the 15th day of <hi>Auguſt,</hi> 1666.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Meath.</item>
+                     <item>Arran.</item>
+                     <item>Hen. Midenſis.</item>
+                     <item>R. Coote.</item>
+                     <item>Art. Forbeſs.</item>
+                     <item>Jo. Byſſe.</item>
+                     <item>Rob. Byron.</item>
+                     <item>Paul. Davys.</item>
+                     <item>Ja. Ware.</item>
+                     <item>Rob. Meredith.</item>
+                     <item>Theo. Jones.</item>
+                  </list>
+               </signed>
+               <lb/>
+GOD Save the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin,</hi> Printed by <hi>John Crook,</hi> Printer to the Kings Moſt Excellent Majeſtie, and are to be ſold by <hi>Samuel Dancer</hi> in Caſtle-ſtreet, 1666.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
